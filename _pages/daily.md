@@ -6,3 +6,16 @@ author_profile: true
 ---
 
 ## Selected ones
+
+<table>
+  <tr>
+    <td><img src="bio-photo" alt="Image 1"></td>
+    <td><img src="bio-photo" alt="Image 2"></td>
+    <td><img src="bio-photo" alt="Image 3"></td>
+  </tr>
+  <tr>
+    <td><img src="bio-photo" alt="Image 4"></td>
+    <td><img src="bio-photo" alt="Image 5"></td>
+    <td><img src="bio-photo" alt="Image 6"></td>
+  </tr>
+</table>
