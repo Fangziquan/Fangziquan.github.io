@@ -7,6 +7,11 @@ author_profile: true
 
 ## Main ones
 
-- trajectory data management and analytics<br>
-  - designing new  
+- big trajectory data management and analytics
+- spatio-temporal data intelligence
+- intelligent traffic systems (ITS)
+- streaming data processing
+- AI4DB
+- machine learning systems
+
 
