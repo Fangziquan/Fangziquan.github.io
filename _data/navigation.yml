@@ -10,7 +10,7 @@ main:
   - title: "Services"
     url: /talks/  
    
-  - title: "Honors"
+  - title: "Guide"
     url: /markdown/
 
   - title: "Teaching"
@@ -27,6 +27,4 @@ main:
     
 #   - title: "CV"
 #     url: /cv/
-    
-#   - title: "Guide"
-#     url: /markdown/
+   
