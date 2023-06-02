@@ -7,6 +7,6 @@ author_profile: true
 
 ## Main ones
 
-- trajectory data management and analytics
+- trajectory data management and analytics<br>
   -designing new  
 
