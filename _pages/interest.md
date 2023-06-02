@@ -14,4 +14,11 @@ author_profile: true
 - AI4DB
 - machine learning systems
 
+## Recruit info
 
+- big trajectory data management and analytics
+- spatio-temporal data intelligence
+- intelligent traffic systems (ITS)
+- streaming data processing
+- AI4DB
+- machine learning systems
