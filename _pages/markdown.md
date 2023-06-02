@@ -6,12 +6,7 @@ redirect_from:
   - /markdown.html
 ---
 
-div {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-###### (* Indicates corresponding author)
+##### (* Indicates corresponding author)
 
 - **Ziquan Fang**, Shenghao Gong, Lu Chen, Jiachen Xu, Yunjun Gao*, and Christian S. Jensen.<br>
 Ghost: A General Framework for High-performance Online Similarity Queries over Distributed Trajectory Streams.<br>
