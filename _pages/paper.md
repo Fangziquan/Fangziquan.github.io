@@ -2,7 +2,8 @@
 permalink: /paper/
 title: "Publications"
 author_profile: true
-redirect_from: 
+redirect_from:
+  - /paper/
   - /paper.html
 ---
 
