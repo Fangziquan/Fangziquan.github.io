@@ -10,5 +10,7 @@ main:
   - title: "Services"
     url: /service/
 
+  - title: "Interests"
+    url: /interest/
  
    
