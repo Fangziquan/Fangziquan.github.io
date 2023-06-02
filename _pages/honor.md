@@ -7,7 +7,9 @@ author_profile: true
 
 ## Selected ones
 
-- Outstanding Graduates of Zhejiang Province, 2023
+- Outstanding PhD Graduates of Zhejiang Province, 2023
+
+- Outstanding PhD Graduates of Zhejiang University, 2023
 
 - Huawei Genius Youth Program, 2022
 
