@@ -20,7 +20,7 @@ redirect_from:
  面向异质信息网络的双通道协同聚类算法.<br> 
  *《计算机学报》*, 2023.
 
- - Zhihao Zeng, Yuntao Du, **Ziquan Fang**, Lu Chen, Shiliang Pu, Guodong Chen, Hui Wang, Yunjun Gao.<br> 
+ - Zhihao Zeng, Yuntao Du, **Ziquan Fang**, Lu Chen, Shiliang Pu, Guodong Chen, Hui Wang, and Yunjun Gao.<br> 
  FLBooster: A Unified and Efficient Platform for Federated Learning Acceleration.<br> 
  *Proceedings of the 39th IEEE International Conference on Data Engineering (**ICDE**)*, 2023. 
  
@@ -44,7 +44,7 @@ redirect_from:
  地理社交网络中基于多目标组合优化的空间感知影响力联合最大化.<br> 
  *《计算机研究与发展》*, 2022.
 
-- **Ziquan Fang**, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, and Christian S. Jensen.<br>
+- **Ziquan Fang**, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, Christian S. Jensen.<br>
 Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>
 *Proceedings of the 28th Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2022. 
         
