@@ -16,7 +16,7 @@ Proceedings of the ACM International Conference on Management of Data (***SIGMOD
 A Lightweight Framework for Fast Trajectory Simplification.<br> 
 Proceedings of the 39th IEEE International Conference on Data Engineering (***ICDE***), 2023.
 
-- **Ziquan Fang**, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, and Christian S. Jensen.<br>  
+- **Ziquan Fang**, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, and Christian S. Jensen.<br>
 Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>  
 Proceedings of the 28th SIGKDD Conference on Knowledge Discovery and Data Mining (***SIGKDD***), pp. 347-356, 2022. 
         
@@ -46,7 +46,7 @@ Proceedings of the 28th SIGKDD Conference on Knowledge Discovery and Data Mining
         
  - Yunjun Gao, Yuntao Du, Yujia Hu, Lu Chen, Xinjun Zhu, **Ziquan Fang**, and Baihua Zheng.<br> 
  Self-Guided Learning to Denoise for Robust Recommendation.<br> 
- Proceedings of the 45th International ACM SIGIR conference on research and development in Information Retrieval (***SIGIR***), pp. 1412-1422, 2022.
+ Proceedings of the 45th ACM conference on research and development in Information Retrieval (***SIGIR***), pp. 1412-1422, 2022.
         
  - Yuntao Du, Yujia Hu, Zhikun Zhang, **Ziquan Fang**, Lu Chen, Baihua Zheng, and Yunjun Gao.<br> 
  LDPTrace: Locally Differentially Private Trajectory Synthesis.<br> 
