@@ -10,7 +10,7 @@ redirect_from:
         
  - Yuxiang Guo, Lu Chen, Zhengjie Zhou, Baihua Zheng, **Ziquan Fang**, Zhikun Zhang, Yuren Mao, Yunjun Gao.<br> 
  CampER: An Effective Framework for Privacy-Aware Deep Entity Resolution.<br> 
- *Proceedings of the 29th ACM Conference on Knowledge Discovery and Data Mining (KDD)*, 2023.
+ *Proceedings of the 29th ACM Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2023.
  
  - Yuntao Du, Yujia Hu, Zhikun Zhang, **Ziquan Fang**, Lu Chen, Baihua Zheng, and Yunjun Gao.<br> 
  LDPTrace: Locally Differentially Private Trajectory Synthesis.<br> 
