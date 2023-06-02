@@ -15,5 +15,7 @@ author_profile: true
 
 - National Scholarship, Ministry of Education of China, 2021&2022
 
+- Most Academic Value Award at the Zhejiang University Doctoral Innovation Forum, 2022
+
 - Award of Honor for Graduate of Zhejiang University, 2019, 2020, 2021, & 2022
 
