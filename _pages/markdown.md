@@ -8,9 +8,9 @@ redirect_from:
 
 #### (* Indicates corresponding author)
         
- - Yuxiang Guo, Lu Chen, Zhengjie Zhou, Baihua Zheng, **Ziquan Fang**, Zhikun Zhang, Yuren Mao, Yunjun Gao.<br> 
+ - Yuxiang Guo, Lu Chen, Zhengjie Zhou, Baihua Zheng, **Ziquan Fang**, Zhikun Zhang, Yuren Mao, and Yunjun Gao.<br> 
  CampER: An Effective Framework for Privacy-Aware Deep Entity Resolution.<br> 
- *Proceedings of the 29th ACM Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2023.
+ *Proceedings of the 29th Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2023.
  
  - Yuntao Du, Yujia Hu, Zhikun Zhang, **Ziquan Fang**, Lu Chen, Baihua Zheng, and Yunjun Gao.<br> 
  LDPTrace: Locally Differentially Private Trajectory Synthesis.<br> 
@@ -20,7 +20,7 @@ redirect_from:
  面向异质信息网络的双通道协同聚类算法.<br> 
  *《计算机学报》*, 2023.
 
- - Zhihao Zeng, Yuntao Du, **Ziquan Fang**, Lu Chen, Shiliang Pu, Guodong Chen, Hui Wang, and Yunjun Gao.<br> 
+ - Zhihao Zeng, Yuntao Du, **Ziquan Fang**, Lu Chen, Shiliang Pu, Guodong Chen, Hui Wang, Yunjun Gao.<br> 
  FLBooster: A Unified and Efficient Platform for Federated Learning Acceleration.<br> 
  *Proceedings of the 39th IEEE International Conference on Data Engineering (**ICDE**)*, 2023. 
  
@@ -46,14 +46,14 @@ redirect_from:
 
 - **Ziquan Fang**, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, and Christian S. Jensen.<br>
 Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>
-*Proceedings of the 28th ACM Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2022. 
+*Proceedings of the 28th Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2022. 
         
  - **Ziquan Fang**, Dongen Wu, Lu Pan, Lu Chen, and Yunjun Gao.<br> 
  When Transfer Learning Meets Cross-City Urban Flow Prediction: Spatio-Temporal Adaptation Matters.<br> 
  *Proceedings of the 31st International Joint Conference on Artificial Intelligence (**IJCAI**)*, 2022. 
         
  - **Ziquan Fang**, Lu Pan, Lu Chen, Yuntao Du, and Yunjun Gao.<br> 
- MDTP: A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data.<br> 
+ A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data.<br> 
  *Proceedings of the 47th International Conference on Very Large Data Bases (**VLDB**)*, 2021.
         
  - **Ziquan Fang**, Yuntao Du, Lu Chen, Yujia Hu, Yunjun Gao, and Gang Chen.<br> 
@@ -61,12 +61,12 @@ Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>
  *Proceedings of the 37th IEEE International Conference on Data Engineering (**ICDE**)*, 2021. 
  
   - **Ziquan Fang**, Lu Chen, Yunjun Gao, Lu Pan, and Christian S. Jensen.<br> 
- Dragoon: A Hybrid and Efficient Big Trajectory Management System for Offline and Online Analytics.<br> 
+ A Hybrid and Efficient Big Trajectory Management System for Offline and Online Analytics.<br> 
  *The VLDB Journal (**VLDBJ**)*, 2021.
         
  - **Ziquan Fang**, Yunjun Gao, Lu Pan, Lu Chen, Xiaoye Miao, and Christian S. Jensen.<br> 
  CoMing: A Real-time Co-Movement Mining System for Streaming Trajectories.<br> 
- *Proceedings of the ACM International Conference on Management of Data (**SIGMOD**)*, Demo, 2020. 
+ *Proceedings of the ACM International Conference on Management of Data (**SIGMOD**)*, 2020. 
         
  - Lu Chen, Yunjun Gao, **Ziquan Fang**, Xiaoye Miao, Christian S. Jensen, and Chenjuan Guo.<br> 
  Real-time Distributed Co-Movement Pattern Detection on Streaming Trajectories.<br> 
