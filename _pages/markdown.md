@@ -17,7 +17,7 @@ A Lightweight Framework for Fast Trajectory Simplification.<br>
 Proceedings of the 39th IEEE International Conference on Data Engineering (***ICDE***), 2023.
 
 - **Ziquan Fang**, Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, and Christian S. Jensen.<br>
-Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>  
+Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>
 Proceedings of the 28th SIGKDD Conference on Knowledge Discovery and Data Mining (***SIGKDD***), pp. 347-356, 2022. 
         
  - **Ziquan Fang**, Dongen Wu, Lu Pan, Lu Chen, and Yunjun Gao.<br> 
