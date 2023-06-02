@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Honors"
+title: "Award and Honors"
 permalink: /honor/
 author_profile: true
 ---
 
-## Selected Honors
+## Selected ones
 
 - Outstanding Graduates of Zhejiang Province, 2023
 
