@@ -60,8 +60,8 @@ Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>
  E2DTC: An End to End Automatic Deep Trajectory Clustering Framework via Self-Training.<br> 
  ***Proceedings of the 37th IEEE International Conference on Data Engineering (ICDE)***, 2021. 
  
-  - **Ziquan Fang**, Lu Chen, Yunjun Gao, Lu Pan, and Christian S. Jensen. 
- Dragoon: A Hybrid and Efficient Big Trajectory Management System for Offline and Online Analytics. 
+  - **Ziquan Fang**, Lu Chen, Yunjun Gao, Lu Pan, and Christian S. Jensen.<br> 
+ Dragoon: A Hybrid and Efficient Big Trajectory Management System for Offline and Online Analytics.<br> 
  ***The VLDB Journal (VLDBJ)***, 2021.
         
  - **Ziquan Fang**, Yunjun Gao, Lu Pan, Lu Chen, Xiaoye Miao, and Christian S. Jensen.<br> 
