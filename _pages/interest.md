@@ -10,7 +10,7 @@ author_profile: true
 - big trajectory data management and analytics
 - spatio-temporal data intelligence
 - intelligent traffic systems (ITS)
-- streaming data processing
+- distributed batch/streaming data processing
 - AI4DB
 - machine learning systems
 
