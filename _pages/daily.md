@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Us"
+title: "Daily Life"
 permalink: /daily/
 author_profile: true
 ---
