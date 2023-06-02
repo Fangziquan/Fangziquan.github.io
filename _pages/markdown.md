@@ -36,8 +36,8 @@ redirect_from:
  Self-Guided Learning to Denoise for Robust Recommendation.<br> 
  ***Proceedings of the 45th ACM conference on research and development in Information Retrieval (SIGIR)***, 2022.
  
- - Yuntao Du, Xinjun Zhu, Lu Chen, **Ziquan Fang**, and Yunjun Gao.<br>  
- MetaKG: Meta-learning on Knowledge Graph for Cold-start Recommendation.<br>  
+ - Yuntao Du, Xinjun Zhu, Lu Chen, **Ziquan Fang**, and Yunjun Gao.<br>
+ MetaKG: Meta-learning on Knowledge Graph for Cold-start Recommendation.<br>
  ***IEEE Transactions on Knowledge and Data Engineering (TKDE)***, 2022.
  
   - 金鹏飞, 常雪芹, **房子荃**, 李淼.<br> 
