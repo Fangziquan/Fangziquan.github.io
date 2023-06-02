@@ -6,3 +6,14 @@ author_profile: true
 ---
 
 ## Selected Honors
+
+- Outstanding Graduates of Zhejiang Province, 2023
+
+- Huawei Genius Youth Program, 2022
+
+- Ranked 1st in the KDD Cup 2022 Wind Power Forecast Track, 2022
+
+- National Scholarship, Ministry of Education of China, 2021&2022
+
+- Award of Honor for Graduate of Zhejiang University, 2019, 2020, 2021, & 2022
+
