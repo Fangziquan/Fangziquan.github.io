@@ -5,9 +5,9 @@ permalink: /daily/
 author_profile: true
 ---
 
-## Selected ones
+## To Be Continued!
 
-<table>
+<!-- <table>
   <tr>
     <td><img src="images/Image-1.png" alt="Image 1"></td>
     <td><img src="images/Image-1.png" alt="Image 2"></td>
@@ -18,4 +18,4 @@ author_profile: true
     <td><img src="images/Image-1.png" alt="Image 5"></td>
     <td><img src="images/Image-1.png" alt="Image 6"></td>
   </tr>
-</table>
+</table> -->
