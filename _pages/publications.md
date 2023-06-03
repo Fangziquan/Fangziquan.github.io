@@ -56,7 +56,7 @@ Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>
  *Proceedings of the 47th International Conference on Very Large Data Bases (**VLDB**)*, 2021.
         
  - **Ziquan Fang**, Yuntao Du, Lu Chen\*, Yujia Hu, Yunjun Gao, and Gang Chen.<br> 
- E2DTC: An End to End Automatic Deep Trajectory Clustering Framework via Self-Training.<br> 
+ E2DTC: An End to End Deep Trajectory Clustering Framework via Self-Training.<br> 
  *Proceedings of the 37th IEEE International Conference on Data Engineering (**ICDE**)*, 2021. 
  
   - **Ziquan Fang**, Lu Chen, Yunjun Gao\*, Lu Pan, and Christian S. Jensen.<br> 
