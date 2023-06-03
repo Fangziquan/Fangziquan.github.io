@@ -52,7 +52,7 @@ Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>
  *Proceedings of the 31st International Joint Conference on Artificial Intelligence (**IJCAI**)*, 2022. 
         
  - **Ziquan Fang**, Lu Pan, Lu Chen, Yuntao Du, and Yunjun Gao\*.<br> 
- A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data.<br> 
+ MDTP: A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data.<br> 
  *Proceedings of the 47th International Conference on Very Large Data Bases (**VLDB**)*, 2021.
         
  - **Ziquan Fang**, Yuntao Du, Lu Chen\*, Yujia Hu, Yunjun Gao, and Gang Chen.<br> 
@@ -60,7 +60,7 @@ Spatio-Temporal Trajectory Similarity Learning in Road Networks.<br>
  *Proceedings of the 37th IEEE International Conference on Data Engineering (**ICDE**)*, 2021. 
  
   - **Ziquan Fang**, Lu Chen, Yunjun Gao\*, Lu Pan, and Christian S. Jensen.<br> 
- A Hybrid and Efficient Big Trajectory Management System for Offline and Online Analytics.<br> 
+ Dragoon: A Hybrid and Efficient Big Trajectory Management System for Offline and Online Analytics.<br> 
  *The VLDB Journal (**VLDBJ**)*, 2021.
         
  - **Ziquan Fang**, Yunjun Gao\*, Lu Pan, Lu Chen, Xiaoye Miao, and Christian S. Jensen.<br> 
