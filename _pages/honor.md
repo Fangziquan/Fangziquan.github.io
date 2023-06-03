@@ -15,7 +15,7 @@ author_profile: true
 
 - Ranked 1st in the KDD Cup 2022 Wind Power Forecast Track, 2022
 
-- National Scholarship, Ministry of Education of China, 2021&2022
+- National Scholarship, Ministry of Education of China, 2021 & 2022
 
 - Most Academic Value Award at the Zhejiang University Doctoral Innovation Forum, 2022
 
