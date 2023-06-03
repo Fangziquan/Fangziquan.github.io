@@ -16,5 +16,5 @@ author_profile: true
 
 ## Recruit info
 
-I am currently seeking highly motivated students to join my research team at the School of Software Technology, Zhejiang University, for pursuing a Ph.D. or Master's degree. If you have a strong interest in the research areas mentioned above, I invite you to apply by submitting your updated CV, statement of purpose, academic transcripts, and any relevant supporting materials. This is an exceptional opportunity to contribute to groundbreaking discoveries in the field of software technology. Don't miss out on this chance to be part of our spatio-temporal research team!
+I am currently **seeking** highly motivated students to join my research team at the School of Software Technology, Zhejiang University, for pursuing a **Ph.D.** or **Master's** degree. If you have a strong interest in the research areas mentioned above, I invite you to apply by submitting your updated CV, statement of purpose, academic transcripts, and any relevant supporting materials. This is an exceptional opportunity to contribute to groundbreaking discoveries in the field of software technology. Don't miss out on this chance to be part of our spatio-temporal research team!
 
