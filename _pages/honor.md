@@ -11,7 +11,7 @@ author_profile: true
 
 - Outstanding PhD Graduates of Zhejiang University, 2023
 
-- Huawei Genius Youth Program, 2022
+- Huawei Genius Youth Program ("天才少年"), 2022
 
 - Ranked 1st in the KDD Cup 2022 Wind Power Forecast Track, 2022
 
