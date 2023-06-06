@@ -20,3 +20,5 @@ For more info
 On this homepage, you will find more information about my research accomplishments, publications, and others. If you have any inquiries, collaboration opportunities, or would simply like to connect, please feel free to reach out to me. I'm excited to engage in meaningful discussions and contribute to further advancements in the field of spatio-temporal databases.
 
 Thank you for visiting my homepage, and I look forward to connecting with you!
+
+![Visitor Count](https://profile-counter.glitch.me/Fangziquan/count.svg)
