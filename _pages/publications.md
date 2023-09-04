@@ -7,6 +7,10 @@ author_profile: true
 
 #### (* Indicates corresponding author)
         
+ - Yunjun Gao, **Ziquan Fang\***, Jiachen Xu, Shenghao Gong, Chunhui Shen, and Lu Chen \*.<br> 
+ An Efficient and Distributed Framework for Real-time Trajectory Stream Clustering.<br> 
+ *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
+
  - Yuxiang Guo, Lu Chen, Zhengjie Zhou, Baihua Zheng, **Ziquan Fang**, Zhikun Zhang, Yuren Mao, and Yunjun Gao\*.<br> 
  CampER: An Effective Framework for Privacy-Aware Deep Entity Resolution.<br> 
  *Proceedings of the 29th Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2023.
