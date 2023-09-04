@@ -7,7 +7,7 @@ author_profile: true
 
 #### (* Indicates corresponding author)
         
- - Yunjun Gao, **Ziquan Fang\***, Jiachen Xu, Shenghao Gong, Chunhui Shen, and Lu Chen \*.<br> 
+ - Yunjun Gao, **Ziquan Fang\***, Jiachen Xu, Shenghao Gong, Chunhui Shen, and Lu Chen.<br> 
  An Efficient and Distributed Framework for Real-time Trajectory Stream Clustering.<br> 
  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
 
