@@ -7,6 +7,8 @@ author_profile: true
 
 ## Selected ones
 
+- ACM SIGSPATIAL 中国分会优博奖，2023
+
 - Outstanding PhD Graduates of Zhejiang Province, 2023
 
 - Outstanding PhD Graduates of Zhejiang University, 2023
