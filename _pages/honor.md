@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected ones
 
-- ACM SIGSPATIAL 中国分会优博奖，2023
+- ACM SIGSPATIAL中国分会[优博奖](https://mp.weixin.qq.com/s/5124ZU7mUaAqqoqVkMJQ_A)，2023
 
 - Outstanding PhD Graduates of Zhejiang Province, 2023
 
