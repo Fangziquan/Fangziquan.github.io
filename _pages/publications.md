@@ -7,9 +7,9 @@ author_profile: true
 
 #### (* Indicates corresponding author)
         
-- Danlei Hu, Lu Chen, Hanxi Fang, **Ziquan Fang**, Tianyi Li, and Yunjun Gao.
-Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study
- *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
+- Danlei Hu, Lu Chen, Hanxi Fang, **Ziquan Fang**, Tianyi Li, and Yunjun Gao.<br> 
+Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study<br>
+*IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
 
  - Yunjun Gao, **Ziquan Fang\***, Jiachen Xu, Shenghao Gong, Chunhui Shen, and Lu Chen.<br> 
  An Efficient and Distributed Framework for Real-time Trajectory Stream Clustering.<br> 
