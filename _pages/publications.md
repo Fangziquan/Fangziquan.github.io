@@ -14,6 +14,10 @@ Camel: Efficient Compression of Floating-Point Time Series<br>
 TrajRecovery: An Efficient Vehicle Trajectory Recovery Framework based on Urban-Scale Traffic Camera Records<br>
 *Proceedings of the 30th Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2024.
 
+- **Ziquan Fang**, Qichen Sun, Qilong Wang, Lu Chen, and Yunjun Gao\*.<br>
+Distributed Temporal Graph Neural Network Learning over Large-Scale Dynamic Graphs<br>
+*Proceedings of the 29th International Conference on Database Systems for Advanced Applications (**DASFAA**), 2024
+
 - Yujia Hu, Yuntao Du, Zhikun Zhang, **Ziquan Fang**, Lu Chen, Kai Zheng, and Yunjun Gao\*.<br>
 Real-Time Trajectory Synthesis with Local Differential Privacy<br>
 *Proceedings of the 40th IEEE International Conference on Data Engineering (**ICDE**)*, 2024. 
