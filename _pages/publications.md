@@ -5,7 +5,22 @@ permalink: /publication/
 author_profile: true
 ---
 
-#### (* Indicates corresponding author)
+#### (* Indicates the corresponding author)
+- Yuanyuan Yao, Lu Chen\*, **Ziquan Fang**, Yunjun Gao, Christian S. Jensen, and Tianyi Li.<br>
+Camel: Efficient Compression of Floating-Point Time Series<be>
+*Proceedings of the ACM International Conference on Management of Data (**SIGMOD**)*, 2025.
+
+- Dongen Wu, **Ziquan Fang**, Qichen Sun, Lu Chen, Haiyang Hu, Fei Wang, and Yunjun Gao\*.<br>
+TrajRecovery: An Efficient Vehicle Trajectory Recovery Framework based on Urban-Scale Traffic Camera Records<br>
+*Proceedings of the 30th Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2024.
+
+- Yujia Hu, Yuntao Du, Zhikun Zhang, **Ziquan Fang**, Lu Chen, Kai Zheng, and Yunjun Gao\*.<br>
+Real-Time Trajectory Synthesis with Local Differential Privacy<br>
+*Proceedings of the 40th IEEE International Conference on Data Engineering (**ICDE**)*, 2024. 
+
+- Zhihao Zeng, **Ziquan Fang\***, Lu Chen, Yunjun Gao, Kai Zheng, and Gang Chen.<br>
+FedCTQ: A Federated-based Framework for Accurate and Efficient Contact Tracing Query<br>
+*Proceedings of the 40th IEEE International Conference on Data Engineering (**ICDE**)*, 2024. 
         
 - Danlei Hu, Lu Chen, Hanxi Fang, **Ziquan Fang**, Tianyi Li, and Yunjun Gao.<br> 
 Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study<br>
