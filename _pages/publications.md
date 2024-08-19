@@ -16,7 +16,7 @@ TrajRecovery: An Efficient Vehicle Trajectory Recovery Framework based on Urban-
 
 - **Ziquan Fang**, Qichen Sun, Qilong Wang, Lu Chen, and Yunjun Gao\*.<br>
 Distributed Temporal Graph Neural Network Learning over Large-Scale Dynamic Graphs<br>
-*Proceedings of the 29th International Conference on Database Systems for Advanced Applications (**DASFAA**), 2024
+*Proceedings of the 29th International Conference on Database Systems for Advanced Applications (**DASFAA**)*, 2024 (**Best Paper Award**).
 
 - Yujia Hu, Yuntao Du, Zhikun Zhang, **Ziquan Fang**, Lu Chen, Kai Zheng, and Yunjun Gao\*.<br>
 Real-Time Trajectory Synthesis with Local Differential Privacy<br>
