@@ -7,7 +7,7 @@ author_profile: true
 
 #### (* Indicates the corresponding author)
 - Yuanyuan Yao, Lu Chen\*, **Ziquan Fang**, Yunjun Gao, Christian S. Jensen, and Tianyi Li.<br>
-Camel: Efficient Compression of Floating-Point Time Series<be>
+Camel: Efficient Compression of Floating-Point Time Series<br>
 *Proceedings of the ACM International Conference on Management of Data (**SIGMOD**)*, 2025.
 
 - Dongen Wu, **Ziquan Fang**, Qichen Sun, Lu Chen, Haiyang Hu, Fei Wang, and Yunjun Gao\*.<br>
